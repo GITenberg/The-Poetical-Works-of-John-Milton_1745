@@ -1,0 +1,49 @@
+_repo: The-Poetical-Works-of-John-Milton_1745
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+  editor:
+    agent_name: Beeching, H. C. (Henry Charles)
+    alias: Beeching, Henry Charles
+    birthdate: 1859
+    deathdate: 1919
+    gutenberg_agent_id: '24881'
+    url: http://www.gutenberg.org/2009/agents/24881
+description: Paradise regain'd -- Samson Agonistes -- Poems upon several occasions,
+  both English and Latin.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+- GITenberg
+tableOfContents: "PREFACE by the Rev. H. C. Beeching, M. A.\r\nTHE STATIONER TO THE\
+  \ READER.\r\nMISCELLANEOUS POEMS.\r\nON THE MORNING OF CHRISTS NATIVITY. / Compos'd\
+  \ 1629.\r\nThe Hymn.\r\nTHE PASSION.\r\nOn Time.\r\nUPON THE CIRCUMCISION.\r\nAT\
+  \ A SOLEMN MUSICK.\r\nAN EPITAPH ON THE MARCHIONESS OF WINCHESTER.\r\nSONG ON MAY\
+  \ MORNING.\r\nON SHAKESPEAR.  1630.\r\nANOTHER ON THE SAME.\r\nL'ALLEGRO.\r\nIL\
+  \ PENSEROSO.\r\nSONNETS.\r\nARCADES.\r\nLYCIDAS.\r\nA MASK PRESENTED At LUDLOW-Castle,\
+  \ 1634. &c.\r\nPOEMS ADDED IN THE 1673 EDITION.\r\nSONNETS.\r\nOn the new forcers\
+  \ of Conscience under the Long PARLIAMENT.\r\nON THE LORD GEN. FAIRFAX AT THE SEIGE\
+  \ OF COLCHESTER.\r\nTO SR HENRY VANE THE YOUNGER.\r\nTO MR. CYRIACK SKINNER UPON\
+  \ HIS BLINDNESS.\r\nCOLLECTION OF PASSAGES TRANSLATED IN THE PROSE WRITINGS.\r\n\
+  [From Of Reformation in England, 1641.]\r\n[From Reason of Church Government,  1641.]\r\
+  \n[From Apology for Smectymnuus, 1642.]\r\n[From Areopagitica, 1644.]\r\n[From Tetrachordon,\
+  \ 1645.]\r\n[From The Tenure of Kings and Magistrates, 1649.]\r\n[From History of\
+  \ Britain, 1670.]\r\nPARADISE LOST.\r\nPARADISE REGAIN'D.\r\nSAMSON AGONISTES\r\n\
+  The ARGUMENT.\r\nAPPENDIX.\r\nON TIME"
+title: The Poetical Works of John Milton
+url: http://www.gutenberg.org/ebooks/1745
