@@ -1,5 +1,8 @@
 _repo: The-Poetical-Works-of-John-Milton_1745
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Milton, John
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24881
 description: Paradise regain'd -- Samson Agonistes -- Poems upon several occasions,
   both English and Latin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1745#The-Poetical-Works-of-John-Milton
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1999-05-01'
 gutenberg_type: Text
